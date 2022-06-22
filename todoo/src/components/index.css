@@ -1,0 +1,169 @@
+/*The whole page*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  /*The whole body*/
+  body{
+    background: url("../images/jess-bailey-94Ld_MtIUf0-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    overflow-x: hidden;
+  }
+  .initials{
+    position: absolute;
+    font-weight:lighter;
+    margin-left: -46px;
+    margin-top: 4px;
+    color: black;
+  }
+  .name{
+    margin-left: 8px;
+    width: 160px;
+    margin-top: 5px;
+    color: black;
+  }
+  .position{
+    margin-left: 8px;
+    margin-top: -30px;
+  }
+  .positions{
+    color: rgb(32, 109, 211);
+    margin-left: 8px;
+    margin-top: -30px;
+  }
+
+  .search{
+    position: absolute;
+    margin-left: 1000px;
+  }
+  .h2{
+    color: #fff;
+  }
+/*   .mybuttons{
+    background-color: #14141491;
+    color: #fff;
+  } */
+
+  .navbar-brand {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    font-size: 1rem;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+  }
+  
+  .navbar .form-control {
+    padding: .75rem 1rem;
+    border-width: 0;
+    border-radius: 0;
+  }
+  .navbar{
+    margin-left: -15px;
+    margin-right: -13px;
+    margin-top: 20px;
+  }
+
+  
+  .form-control-dark {
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
+  }
+  
+  .form-control-dark:focus {
+    border-color: transparent;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+  }
+
+  ul{
+    text-decoration: none;
+    list-style: none;
+  }
+ 
+  .adding{
+    
+    margin-left: -10px;
+    color: #fff;
+  }
+  .addingtask{
+    margin-top: -4px;
+    margin-left: -20px;
+    color: #fff;
+  }
+
+
+ .btn-secondary{
+    width: 100px;
+    height: 41px;
+    margin-left: 3px;
+ }
+
+  .container{
+    background: url("../images/andrew-neel-cckf4TsHAuw-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    /* line-height: 1.5; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    /* z-index: 100;  *//* Behind the navbar */
+    padding: 0;
+    opacity: 85%;
+    line-height: 0.7;
+   /*  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1); */
+  }
+  
+.sidebar-sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  
+  .sidebar .nav-link:hover,
+  .sidebar .nav-link.active  {
+    color: inherit;
+  }
+
+  .numbers{
+    margin-left: 147px;
+  }
+  .numberss{
+    margin-left: 187px;
+  }
+  .numbersss{
+    margin-left: 165px;
+  }
+
+  .title{
+    margin-left: 30px;
+  }
+  .footbot{
+    padding-top: 30%;
+    margin-left: 17px;
+    padding-bottom: 2%;
+    color: maroon;
+  }
+  .lasticon{
+    margin-left: 155px;
+  }
+.icon{
+    padding-right: 10px;
+}
+  
+td{
+  background-color: #AAAAAA;
+  opacity: 80%;
+}
